@@ -1,2 +1,23 @@
-# Alienware-Alpha-R2-Hackintosh-10.13.6
-CPU: i7-6700T GPU: GTX960 RAM: 16GB
+# Alienware-Alpha-R2-Hackintosh-10.13.5(17F77)
+
+OS: 10.13.5(17F77)
+
+Specifications	Detail
+Computer model:	Alienware-Alpha-R2
+Processor	Intel Core: i7-6700T Processor
+Memory:	16GB DDR4
+Hard Disk:	Western Digital SN500 500GB
+Integrated Graphics:	Intel UHD Graphics 530
+Graphics Processor:	Nvidia GTX 960
+Wireless Card:	BCM94352Z (1560A)
+
+Work
+Airdrop
+Appstore
+iMessage
+
+Not Work
+Hand-off
+
+I would stay in High Seirra. 
+Since Nvidia web drive don't support Mojave.
