@@ -21,13 +21,21 @@ Wireless Card:	BCM94352Z (1560A)
 
 The wireless card I recommend 1830A. It can eliminate the Hand-off freeze issue.
 
+
+
+
 Work
 Airdrop
 Appstore
 iMessage
 
+
 Not Work
 Hand-off
+Sound card
+
+
+
 
 I would stay in High Seirra. 
 Since Nvidia web drive don't support Mojave.
