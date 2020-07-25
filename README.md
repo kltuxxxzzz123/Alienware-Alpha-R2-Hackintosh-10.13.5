@@ -24,15 +24,15 @@ The wireless card I recommend 1830A. It can eliminate the Hand-off freeze issue.
 
 
 
-Work
+Work:
 Airdrop
 Appstore
 iMessage
 
 
-Not Work
+Not Work:
 Hand-off
-Sound card
+
 
 
 
